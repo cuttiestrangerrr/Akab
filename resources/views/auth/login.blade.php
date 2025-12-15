@@ -45,7 +45,7 @@
         </form>
 
         <p class="mt-6 text-center text-sm text-neutral-400">
-            Belum punya akun? <a href="{{ url('/register') }}" class="text-red-500 hover:underline">Daftar</a>
+            Belum punya akun? <a href="{{ url('/register') }}" class="text-red-500 hover:underline">Daftar WOY</a>
         </p>
     </div>
 
